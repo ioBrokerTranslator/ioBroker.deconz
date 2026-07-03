@@ -45,6 +45,11 @@ Examples:
 ## Changelog
 ### **WORK IN PROGRESS**
 - (copilot) Adapter requires node.js >= 22 now
+### 1.7.9 (2026-07-03)
+* chore(deps-dev): bump @types/node from 25.9.1 to 25.9.4
+* chore(deps-dev): bump @alcalzone/release-script from 5.2.0 to 5.2.1
+* chore(deps-dev): bump js-yaml from 4.1.1 to 4.3.0
+
 ### 1.7.8 (2026-06-03)
 * chore(deps-dev): bump @alcalzone/release-script-plugin-license
 * chore(deps-dev): bump @types/node from 25.6.0 to 25.9.1
