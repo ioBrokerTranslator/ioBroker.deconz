@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "deconz",
-    "version": "1.7.10",
+    "version": "1.7.11",
     "news": {
+      "1.7.11": {
+        "en": "* chore(deps-dev): bump @alcalzone/release-script-plugin-license\n* chore(deps-dev): bump js-yaml from 4.3.0 to 4.3.1",
+        "de": "Abhängigkeiten aktualisiert",
+        "ru": "Обновлены зависимости",
+        "pt": "Dependências atualizadas",
+        "nl": "Afhankelijkheden bijgewerkt",
+        "fr": "Dépendances mises à jour",
+        "it": "Dipendenze aggiornate",
+        "es": "Dependencias actualizadas",
+        "pl": "Zaktualizowano zależności",
+        "uk": "Оновлено залежності",
+        "zh-cn": "更新依赖"
+      },
       "1.7.10": {
         "en": "* chore(deps-dev): bump @iobroker/testing from 5.2.2 to 5.3.0\n* chore(deps-dev): bump @types/node from 25.9.4 to 25.9.5\n* chore(deps-dev): bump axios from 1.16.0 to 1.18.1",
         "de": "Abhängigkeiten aktualisiert",
@@ -119,19 +132,6 @@
         "pl": "Napraw połączenie websocket\\ nEncrypt hasło w konfiguracji",
         "uk": "Виправлено підключення websocket \\nЗашифрувати пароль в конфігурації",
         "zh-cn": "修复 Websocket 连接\\ n 在配置中输入密码"
-      },
-      "1.5.0": {
-        "en": "Dependencies have been updated\n Some translations are updated/added",
-        "de": "Abhängigkeiten wurden aktualisiert\n inige Übersetzungen wurden aktualisiert/hinzugefügt",
-        "ru": "Зависимость обновлена\n оторые переводы обновлены/добавлены",
-        "pt": "As dependências foram atualizadas\n Algumas traduções foram actualizadas/adicionadas",
-        "nl": "Afhankelijkheden zijn bijgewerkt\n Sommige vertalingen zijn bijgewerkt/toegevoegd",
-        "fr": "Les dépendances ont été actualisées\n Certaines traductions sont mises à jour/ajout",
-        "it": "Le dipendenze sono state aggiornate\n Alcune traduzioni sono state aggiornate/aggiunte",
-        "es": "Se han actualizado las dependencias\n Se actualizan/añaden algunas traducciones",
-        "pl": "Zaktualizowano zależności\n Niektóre tłumaczenia zostały zaktualizowane/dodane",
-        "uk": "Залежність було оновлено\n Деякі переклади оновлено/додано",
-        "zh-cn": "依赖关系已更新, 更新/添加了一些译文"
       }
     },
     "titleLang": {
